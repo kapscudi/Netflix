@@ -1,4 +1,4 @@
-# Movie Surfing and Booking application
+# Movie Surfing application
 
 - Movie Surfing application made using React, Redux ,NodeJS, Express and MongoDB 
 
