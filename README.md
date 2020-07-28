@@ -15,8 +15,8 @@
 - [Features](#Features)
 
 - [Running Projects Locally](#running-projects-locally)
-   -[Front END](#front-end)
-   -[SERVER](#server)
+   - [Front END](#front-end)
+   - [SERVER](#server)
 
 
 - [TODO](#todo)
@@ -50,14 +50,14 @@ Demo:
 - [TMDB API](https://www.themoviedb.org/?language=en-US)
   - Movie Database API for fetching movies and trailers.
 -  React Router-Dom
-  - Used for Complex and dynamic route creations and redirections
+   - Used for Complex and dynamic route creations and redirections
 - [React Reveal](https://www.react-reveal.com/)
 - Node Mailer
-  -To send varification emails
+  - To send varification emails
  -Sass 
-  -For fast and powerfull styling
- -Media Queries
-   -For responsiveness
+  - For fast and powerfull styling
+ - Media Queries
+   - For responsiveness
  
 
 ---
